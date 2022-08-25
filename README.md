@@ -1,5 +1,5 @@
 # FireChat App
-A full stack app developed as personal project by Jei Cohen.
+(React.js + FireBase) A clean and light chat only for GMAIL users.
 
 
 ## About
