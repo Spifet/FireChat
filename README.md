@@ -1,10 +1,5 @@
 # FireChat App
-(React.js + FireBase) A clean and light chat only for GMAIL users.
-
-
-## About
-The project is a chat room for registered Gmail users only. Built with ReactJS and Firebase.
-
+(React.js + FireBase) A clean and light chat only for Gmail users.
 
 ### Dependencies
 *@material-ui/core
@@ -21,7 +16,6 @@ Contributors names and contact info
 
 Jei Cohen [@Spifet]
 
-(https://spifet.github.io/)
 (https://www.linkedin.com/in/jeicohen/)
 
 
