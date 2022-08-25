@@ -1,6 +1,6 @@
 All Rights Reserved
 
-Copyright (c) ${2022} ${Jei Cohen}
+Copyright (c) ${2022}  ${Jei Cohen}
 
 Created by Spifet [(Jei Cohen)]
 
